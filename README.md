@@ -14,6 +14,18 @@ This case study answers critical business questions using SQL queries over sever
 
 ---
 
+### 📁 Datasets:
+- **customers.csv:**      Contains demographic information about customers, including their locations.
+- **order_items.csv:**    Details about items included in each order.
+- **order_reviews.csv:**  Customer reviews related to orders, capturing feedback and ratings.
+- **order_reviews.xlsx:** An Excel version of the order reviews dataset.
+- **orders.csv:**         Contains data on customer orders, including timestamps and details about products purchased.
+- **payments.csv:**       Captures payment information related to each order, including payment types and installments.
+- **products.csv:**       Contains information about products available for purchase.
+- **sellers.csv:**        Information about the sellers in the e-commerce platform.
+
+---
+
 ## 🧠 Key Business Questions Answered
 
 - What is the trend of order growth over time?
